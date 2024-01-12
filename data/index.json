@@ -93,36 +93,38 @@
                 "description": "The year I finally finished school."
             }
         ],
-        "skills": [{
-                "name": "JavaScript",
-                "image": "",
-                "experience": "Experience",
-                "time": "1 year/s"
-            },
-            {
-                "name": "JavaScript",
-                "image": "",
-                "experience": "Experience",
-                "time": "1 year/s"
-            },
-            {
-                "name": "JavaScript",
-                "image": "",
-                "experience": "Experience",
-                "time": "1 year/s"
-            },
-            {
-                "name": "JavaScript",
-                "image": "",
-                "experience": "Experience",
-                "time": "1 year/s"
-            },
-            {
-                "name": "JavaScript",
-                "image": "",
-                "experience": "Experience",
-                "time": "1 year/s"
-            }
+        "skills": [
+            [{
+                    "name": "JavaScript",
+                    "image": "",
+                    "experience": "Experience",
+                    "time": "1 year/s"
+                },
+                {
+                    "name": "JavaScript",
+                    "image": "",
+                    "experience": "Experience",
+                    "time": "1 year/s"
+                },
+                {
+                    "name": "JavaScript",
+                    "image": "",
+                    "experience": "Experience",
+                    "time": "1 year/s"
+                },
+                {
+                    "name": "JavaScript",
+                    "image": "",
+                    "experience": "Experience",
+                    "time": "1 year/s"
+                },
+                {
+                    "name": "JavaScript",
+                    "image": "",
+                    "experience": "Experience",
+                    "time": "1 year/s"
+                }
+            ]
         ]
     },
     "contact": {
