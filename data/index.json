@@ -11,41 +11,25 @@
                 "footer": "Unity 3D Engine"
             },
             {
-                "title": "Game Development",
-                "image": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-                "footer": "Unity 3D Engine"
+                "title": "Scripting Exploits",
+                "image": "https://i.ibb.co/bN1KNYp/python.png",
+                "footer": "Python 3"
             },
             {
-                "title": "Game Development",
-                "image": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-                "footer": "Unity 3D Engine"
+                "title": "Playing Sports",
+                "image": "https://i.ibb.co/gg9fbc4/person-walking.png",
+                "footer": "Team Activities"
             }
         ]
     },
     "projects": [
         {
             "name":"keyboard",
-            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
+            "thumbnail": "https://i.ibb.co/FVYq4Fn/image.png",
             "video": null,
-            "description": "This is a keyboard",
-            "github_link": "https://github.com",
-            "netlify_link": "https://netlify.com"
-        },
-        {
-            "name":"keyboard",
-            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-            "video": null,
-            "description": "This is a keyboard",
-            "github_link": "https://github.com",
-            "netlify_link": "https://netlify.com"
-        },
-        {
-            "name":"keyboard",
-            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-            "video": null,
-            "description": "This is a keyboard",
-            "github_link": "https://github.com",
-            "netlify_link": "https://netlify.com"
+            "description": "Just a fun looking keyboard I built to practice my css skills.",
+            "github_link": "https://github.com/solocyberengineer/keyboardProject",
+            "netlify_link": "https://inspiring-salamander-688f31.netlify.app/"
         }
     ],
     "testimonials": [{
