@@ -40,8 +40,14 @@
         },
         {
             "name": "Tamlin Leigh Geyer",
-            "profile": "",
+            "profile": "https://i.ibb.co/Ln0DS57/20240110-121622.jpg",
             "quote": "Rezaar is an extraordinary full-stack developer whose technical prowess is matched only by his unwavering dedication to excellence. His ability to seamlessly navigate complex coding challenges and deliver elegant solutions is truly commendable. Beyond his technical brilliance, Rezaar collaborative spirit and infectious enthusiasm make him not just a valued colleague but also a cherished friend in the world of software development. I highly recommend him as a suitable candidate for any developer role.",
+            "rating": ["", "", "", "", ""]
+        },
+        {
+            "name": "Ntokozo Sithebe",
+            "profile": "https://i.ibb.co/g7LN46D/image.png",
+            "quote": "Rezaar is an intelligent individual, always willing to help where he can. He is passionate about his work and executes his creativity with excellence.",
             "rating": ["", "", "", "", ""]
         }
     ],
