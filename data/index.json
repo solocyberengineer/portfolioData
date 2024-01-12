@@ -30,6 +30,14 @@
             "description": "Just a fun looking keyboard I built to practice my css skills.",
             "github_link": "https://github.com/solocyberengineer/keyboardProject",
             "netlify_link": "https://inspiring-salamander-688f31.netlify.app/"
+        },
+        {
+            "name":"calculator",
+            "thumbnail": "https://i.ibb.co/gzNsSZ8/image.png",
+            "video": null,
+            "description": "I tried to build a windows 10 look alike calculator. This was also javascript practice.",
+            "github_link": "https://github.com/solocyberengineer/calculatorProject",
+            "netlify_link": "https://wonderful-melomakarona-414a9d.netlify.app"
         }
     ],
     "testimonials": [{
@@ -59,23 +67,23 @@
             },
             {
                 "year": 2020,
-                "title": "Matric",
-                "description": "The year I finally finished school."
+                "title": "Short Courses",
+                "description": "Took some online courses to get some insight on web development."
             },
             {
-                "year": 2020,
-                "title": "Matric",
-                "description": "The year I finally finished school."
+                "year": 2021,
+                "title": "Programming & Pentesting",
+                "description": "I did some self-teaching. I picked up some pen-testing skills, and this led to increasing my programming skill."
             },
             {
-                "year": 2020,
-                "title": "Matric",
-                "description": "The year I finally finished school."
+                "year": 2022,
+                "title": "Casual Job",
+                "description": "I got a casual job in retail for 3 months. I learn't and gained tons of experience in such a little time."
             },
             {
-                "year": 2020,
-                "title": "Matric",
-                "description": "The year I finally finished school."
+                "year": 2023,
+                "title": "Life Choices Academy",
+                "description": "I'm futhering my web development skill and creating exposure."
             }
         ],
         "skills": [
