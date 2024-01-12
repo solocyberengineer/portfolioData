@@ -3,13 +3,13 @@
         "background": "https://i.ibb.co/Lr9hNQm/profile-portfolio.jpg"
     },
     "about": {
-        "profile": null,
-        "story": null,
+        "profile": "https://i.ibb.co/Lr9hNQm/profile-portfolio.jpg",
+        "story": "I am 21 years old, born in 2002 April. I am training a pattern ready to code and discover the world of development. All ideas start simple, they say. They DO! I figured, and that's where I found my passion to discover the "magic" behind computers.",
         "interests": [
             {
-                "title": null,
-                "image": null,
-                "footer": null
+                "title": "Game Development",
+                "image": "https://i.ibb.co/Lr9hNQm/profile-portfolio.jpghttps://i.ibb.co/h8JcQ9z/game-controller.png",
+                "footer": "Unity 3D Engine"
             }
         ]
     },
