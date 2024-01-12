@@ -22,13 +22,29 @@
             }
         ]
     },
-    "projects": [{
-        "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-        "video": null,
-        "description": "This is a keyboard",
-        "github_link": "https://github.com",
-        "netlify_link": "https://netlify.com"
-    }],
+    "projects": [
+        {
+            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
+            "video": null,
+            "description": "This is a keyboard",
+            "github_link": "https://github.com",
+            "netlify_link": "https://netlify.com"
+        },
+        {
+            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
+            "video": null,
+            "description": "This is a keyboard",
+            "github_link": "https://github.com",
+            "netlify_link": "https://netlify.com"
+        },
+        {
+            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
+            "video": null,
+            "description": "This is a keyboard",
+            "github_link": "https://github.com",
+            "netlify_link": "https://netlify.com"
+        }
+    ],
     "testimonials": [{
             "name": "Razeem",
             "profile": "",
