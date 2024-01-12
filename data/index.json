@@ -5,8 +5,7 @@
     "about": {
         "profile": "https://i.ibb.co/Lr9hNQm/profile-portfolio.jpg",
         "story": "I am 21 years old, born in 2002 April. I am training a pattern ready to code and discover the world of development. All ideas start simple, they say. They DO! I figured, and that's where I found my passion to discover the 'magic' behind computers.",
-        "interests": [
-            {
+        "interests": [{
                 "title": "Game Development",
                 "image": "https://i.ibb.co/h8JcQ9z/game-controller.png",
                 "footer": "Unity 3D Engine"
@@ -23,17 +22,14 @@
             }
         ]
     },
-    "projects": [
-        {
-            "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
-            "video": null,
-            "description": "This is a keyboard",
-            "github_link": "https://github.com",
-            "netlify_link": "https://netlify.com"
-        }
-    ],
-    "testimonials": [
-        {
+    "projects": [{
+        "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
+        "video": null,
+        "description": "This is a keyboard",
+        "github_link": "https://github.com",
+        "netlify_link": "https://netlify.com"
+    }],
+    "testimonials": [{
             "name": "Razeem",
             "profile": "",
             "quote": "Rezaar is extremely focused. When he sinks hes teeth into something he does not let go. Hes everyone's go to guy and he's always willing to help. He showcases diligence and initiative daily and has a great sense of humor. Hes definately been a great addition to our team and im sure that he'll make an excellent addition to yours.",
@@ -70,80 +66,74 @@
             "rating": 5
         }
     ],
-    "resume": [
-        {
-            "education": [
-                {
-                    "year": 2020,
-                    "title": "Matric",
-                    "description": "The year I finally finished school."
-                },
-                {
-                    "year": 2020,
-                    "title": "Matric",
-                    "description": "The year I finally finished school."
-                },
-                {
-                    "year": 2020,
-                    "title": "Matric",
-                    "description": "The year I finally finished school."
-                },
-                {
-                    "year": 2020,
-                    "title": "Matric",
-                    "description": "The year I finally finished school."
-                },
-                {
-                    "year": 2020,
-                    "title": "Matric",
-                    "description": "The year I finally finished school."
-                }
-            ],
-            "skills": [
-                {
-                    "name": "JavaScript",
-                    "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
-                },
-                {
-                    "name": "JavaScript",
-                    "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
-                },
-                {
-                    "name": "JavaScript",
-                    "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
-                },
-                {
-                    "name": "JavaScript",
-                    "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
-                },
-                {
-                    "name": "JavaScript",
-                    "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
-                }
-            ]
-        }
-    ],
+    "resume": {
+        "education": [{
+                "year": 2020,
+                "title": "Matric",
+                "description": "The year I finally finished school."
+            },
+            {
+                "year": 2020,
+                "title": "Matric",
+                "description": "The year I finally finished school."
+            },
+            {
+                "year": 2020,
+                "title": "Matric",
+                "description": "The year I finally finished school."
+            },
+            {
+                "year": 2020,
+                "title": "Matric",
+                "description": "The year I finally finished school."
+            },
+            {
+                "year": 2020,
+                "title": "Matric",
+                "description": "The year I finally finished school."
+            }
+        ],
+        "skills": [{
+                "name": "JavaScript",
+                "image": "",
+                "experience": "Experience",
+                "time": "1 year/s"
+            },
+            {
+                "name": "JavaScript",
+                "image": "",
+                "experience": "Experience",
+                "time": "1 year/s"
+            },
+            {
+                "name": "JavaScript",
+                "image": "",
+                "experience": "Experience",
+                "time": "1 year/s"
+            },
+            {
+                "name": "JavaScript",
+                "image": "",
+                "experience": "Experience",
+                "time": "1 year/s"
+            },
+            {
+                "name": "JavaScript",
+                "image": "",
+                "experience": "Experience",
+                "time": "1 year/s"
+            }
+        ]
+    },
     "contact": {
         "details": {
             "cell": "083 4964 817",
             "email": "rezaarsrvyte@gmail.com"
         },
-        "socials": [
-            {
-                "image": "https://i.ibb.co/FVYq4Fn/image.png",
-                "link": "https://github.com"
-            }
-        ]
+        "socials": [{
+            "image": "https://i.ibb.co/FVYq4Fn/image.png",
+            "link": "https://github.com"
+        }]
     }
-    
+
 }
