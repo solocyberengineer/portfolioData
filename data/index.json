@@ -24,6 +24,7 @@
     },
     "projects": [
         {
+            "name":"keyboard",
             "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
             "video": null,
             "description": "This is a keyboard",
@@ -31,6 +32,7 @@
             "netlify_link": "https://netlify.com"
         },
         {
+            "name":"keyboard",
             "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
             "video": null,
             "description": "This is a keyboard",
@@ -38,6 +40,7 @@
             "netlify_link": "https://netlify.com"
         },
         {
+            "name":"keyboard",
             "thumbnail": "https://i.ibb.co/h8JcQ9z/game-controller.png",
             "video": null,
             "description": "This is a keyboard",
@@ -149,6 +152,7 @@
             "email": "rezaarsrvyte@gmail.com"
         },
         "socials": [{
+            "name": "github",
             "image": "https://i.ibb.co/FVYq4Fn/image.png",
             "link": "https://github.com"
         }]
