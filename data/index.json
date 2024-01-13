@@ -51,7 +51,7 @@
             "name":"netflix clone",
             "thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYR3He852BuT48Jho5xvKu-6RZ2SUwfOWrYLshyUq-HfCEdQDoGiMz5F9-leT5OwfXxSpzAIi9MQd2of_WU9XciE0ucnKA=w1366-h607",
             "video": "",
-            "description": "A simple converter, converting either minutes to seconds or seconds to minutes.",
+            "description": "A Netflix clone.",
             "github_link": "https://mrbud-netflix-clone.netlify.app",
             "netlify_link": "https://github.com/solocyberengineer/netflix"
         },
@@ -80,6 +80,24 @@
             "name": "Ntokozo Sithebe",
             "profile": "https://i.ibb.co/g7LN46D/image.png",
             "quote": "Rezaar is an intelligent individual, always willing to help where he can. He is passionate about his work and executes his creativity with excellence.",
+            "rating": ["", "", "", "", ""]
+        },
+        {
+            "name": "",
+            "profile": "",
+            "quote": "",
+            "rating": ["", "", "", "", ""]
+        },
+        {
+            "name": "",
+            "profile": "",
+            "quote": "",
+            "rating": ["", "", "", "", ""]
+        },
+        {
+            "name": "",
+            "profile": "",
+            "quote": "",
             "rating": ["", "", "", "", ""]
         }
     ],
