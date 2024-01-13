@@ -90,31 +90,31 @@
             [
                 {
                     "name": "JavaScript",
-                    "image": "https://i.ibb.co/8m0zbwJ/javascript.png",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQUPipL9sYkWd9_JZIbt6SL8FnRP94ncroeOgYHf4_TAYZM_JafnCLamZdD-VcWlNTuSWKce6LIka1ATuG4IfHuP5Lt=w1366-h607",
                     "experience": "Experienced",
                     "time": "1 year"
                 },
                 {
-                    "name": "Html",
-                    "image": "",
+                    "name": "html",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSYdAn_eYfq3F_rVrNFlMM4_xndZwMqbsP4OPqmT2YKRrmGxcLfnyZLv_CzvQH4DDTveVZk_xoewmDBOtkpRNM7DrlUEQ=w1366-h607",
                     "experience": "Experienced",
                     "time": "3 years"
                 },
                 {
-                    "name": "Css",
-                    "image": "",
+                    "name": "css",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSUo8vZUJEwz-EQXij_4t82xgL3cH1U_Fk0ja6p_JjzfOL2KdA-pIdLpPlLzbIBnRBw3RC6jZcioZHdcsFz0b0WuoLE=w675-h598",
                     "experience": "Experienced",
                     "time": "3 years"
                 },
                 {
                     "name": "Bootstrap",
-                    "image": "",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQofWLbpt9Nz6rqhiebnrpbbnEzUycvHgENxsItO_MxdMi7VWNioHnwI-z673pHwblPqHfkpAzGvUfINc-ZKFLbhRVF=w675-h598",
                     "experience": "Intermediate",
                     "time": "4 month"
                 },
                 {
                     "name": "VueJs",
-                    "image": "",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSSMKTqfxl9yDrQqa2Ai9JXllI6F_YmbRbCLFUplpEj36uA0Dvz85gpOdJvaKgaM2eG2CQon9hVOqIdynuga9VJK9rj=w675-h598",
                     "experience": "Beginner",
                     "time": "1 month"
                 }
