@@ -38,6 +38,30 @@
             "description": "I tried to build a windows 10 look alike calculator. This was also javascript practice.",
             "github_link": "https://github.com/solocyberengineer/calculatorProject",
             "netlify_link": "https://wonderful-melomakarona-414a9d.netlify.app"
+        },
+        {
+            "name":"minutes to seconds",
+            "thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQRynLVUslzXrZqqJ3Q2EYliuk2FzaFsHalIMCeq9Jd-k7Fw0TtHrTAJBj9b6yE-mL5C7LA2wbOZdjR2KFsyXPoDp5Dnw=w1366-h607",
+            "video": "",
+            "description": "A simple converter, converting either minutes to seconds or seconds to minutes.",
+            "github_link": "https://github.com/solocyberengineer/MinutesToSeconds",
+            "netlify_link": "https://minutes2seconds.netlify.app"
+        },
+        {
+            "name":"netflix clone",
+            "thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYR3He852BuT48Jho5xvKu-6RZ2SUwfOWrYLshyUq-HfCEdQDoGiMz5F9-leT5OwfXxSpzAIi9MQd2of_WU9XciE0ucnKA=w1366-h607",
+            "video": "",
+            "description": "A simple converter, converting either minutes to seconds or seconds to minutes.",
+            "github_link": "https://mrbud-netflix-clone.netlify.app",
+            "netlify_link": "https://github.com/solocyberengineer/netflix"
+        },
+        {
+            "name":"ingenium ecommerce",
+            "thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQb2gOXcAThrxcqDT7mrpwJu-SsRwhfZG2es_iPhnTt0HrrIbXxKr9Fui7TyftrGDnl8Ghvsm8eRb47-zoEE7XAin2unQ=w1366-h607",
+            "video": "",
+            "description": "A basic ecommerce I built to practice my skills.",
+            "github_link": "https://github.com/solocyberengineer/nium_Ecommerce",
+            "netlify_link": "https://mrbudecom.netlify.app/page/home.html"
         }
     ],
     "testimonials": [{
