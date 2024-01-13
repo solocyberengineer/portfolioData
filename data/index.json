@@ -89,7 +89,7 @@
         "skills": [
             [{
                     "name": "JavaScript",
-                    "image": "",
+                    "image": "https://i.ibb.co/8m0zbwJ/javascript.png",
                     "experience": "Experienced",
                     "time": "1 year"
                 },
