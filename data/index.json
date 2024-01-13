@@ -87,9 +87,10 @@
             }
         ],
         "skills": [
-            [{
+            [
+                {
                     "name": "JavaScript",
-                    "image": "https://i.ibb.co/8m0zbwJ/javascript.png",
+                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQ3Oxa3m7dOdoVovWnxjnhehlUunrxfwW5QAIVl-1F52e3WuBVJQVOYaLdEPSJukXTCtwrrc0nt83K4tsA5U_6QjrQowg=w1366-h607",
                     "experience": "Experienced",
                     "time": "1 year"
                 },
