@@ -90,32 +90,32 @@
             [{
                     "name": "JavaScript",
                     "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
+                    "experience": "Experienced",
+                    "time": "1 year"
                 },
                 {
-                    "name": "JavaScript",
+                    "name": "Html",
                     "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
+                    "experience": "Experienced",
+                    "time": "3 years"
                 },
                 {
-                    "name": "JavaScript",
+                    "name": "Css",
                     "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
+                    "experience": "Experienced",
+                    "time": "3 years"
                 },
                 {
-                    "name": "JavaScript",
+                    "name": "Bootstrap",
                     "image": "",
-                    "experience": "Experience",
-                    "time": "1 year/s"
+                    "experience": "Intermediate",
+                    "time": "4 month"
                 },
                 {
-                    "name": "JavaScript",
+                    "name": "VueJs",
                     "image": "",
                     "experience": "Experience",
-                    "time": "1 year/s"
+                    "time": "1 month"
                 }
             ]
         ]
@@ -125,11 +125,18 @@
             "cell": "083 4964 817",
             "email": "rezaarsrvyte@gmail.com"
         },
-        "socials": [{
-            "name": "github",
-            "image": "https://i.ibb.co/FVYq4Fn/image.png",
-            "link": "https://github.com"
-        }]
+        "socials": [
+            {
+                "name": "github",
+                "image": "https://i.ibb.co/LrbDPdR/github.png",
+                "link": "https://github.com/solocyberengineer"
+            },
+            {
+                "name": "whatsapp",
+                "image": "https://i.ibb.co/hmt6cDr/whatsapp.png",
+                "link": "https://wa.me/0834964817"
+            }
+    ]
     }
 
 }
