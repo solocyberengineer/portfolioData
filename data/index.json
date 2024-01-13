@@ -42,7 +42,7 @@
     ],
     "testimonials": [{
             "name": "Razeem",
-            "profile": "",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQ3Oxa3m7dOdoVovWnxjnhehlUunrxfwW5QAIVl-1F52e3WuBVJQVOYaLdEPSJukXTCtwrrc0nt83K4tsA5U_6QjrQowg=w1366-h607",
             "quote": "Rezaar is extremely focused. When he sinks hes teeth into something he does not let go. Hes everyone's go to guy and he's always willing to help. He showcases diligence and initiative daily and has a great sense of humor. Hes definately been a great addition to our team and im sure that he'll make an excellent addition to yours.",
             "rating": ["", "", "", "", ""]
         },
@@ -90,7 +90,7 @@
             [
                 {
                     "name": "JavaScript",
-                    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQ3Oxa3m7dOdoVovWnxjnhehlUunrxfwW5QAIVl-1F52e3WuBVJQVOYaLdEPSJukXTCtwrrc0nt83K4tsA5U_6QjrQowg=w1366-h607",
+                    "image": "https://i.ibb.co/8m0zbwJ/javascript.png",
                     "experience": "Experienced",
                     "time": "1 year"
                 },
